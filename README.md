@@ -4,7 +4,9 @@ for project configuration drop me mail :
 
 
 ![layout](https://user-images.githubusercontent.com/60324608/117571196-18836700-b0eb-11eb-9a5b-045c380f7b83.png)
-![search_auto_complete](https://user-images.githubusercontent.com/60324608/117571200-1caf8480-b0eb-11eb-9c31-1bc602daa6e9.png)
+![search-dates](https://user-images.githubusercontent.com/60324608/117571354-d7d81d80-b0eb-11eb-8284-91ed8bbc349a.png)
+![search_auto_complete](https://user-images.githubusercontent.com/60324608/117571359-ddcdfe80-b0eb-11eb-9115-abde83a0912f.png)
+
 
 ![search-no-of-beds](https://user-images.githubusercontent.com/60324608/117571204-20dba200-b0eb-11eb-9c53-f5b03a7729d5.png)
 ![sellers-dashboard](https://user-images.githubusercontent.com/60324608/117571209-233dfc00-b0eb-11eb-834f-903d66037920.png)
